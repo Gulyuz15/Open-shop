@@ -1,0 +1,44 @@
+.wrapp {
+  background-color: #313131;
+}
+.navbar-search {
+  width: 440px;
+  outline: none;
+}
+.header-2{
+  background-color: #fff;
+}
+.chegirma{
+  background-color: black;
+  border-radius: 50%;
+  color: #fff;
+  top: 15px;
+  left: 15px;
+}
+.malumot{
+  color: black;
+  bottom: 55px;
+  left: 15px;
+}
+.narx{
+ color: black;
+ bottom: 15px;
+ left: 15px;
+}
+.chegirma-2{
+  background-color: black;
+  border-radius: 50%;
+  color: #fff;
+  bottom: 15px;
+  left: 15px;
+}
+.malumot-2{
+  color: black;
+  top: 15px;
+  left: 15px;
+}
+.narx-2{
+  color: black;
+  top: 55px;
+  left: 15px;
+}
